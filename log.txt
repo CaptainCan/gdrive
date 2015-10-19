@@ -1,0 +1,67 @@
+mimeType: application/vnd.google-apps.folder
+version: 33580
+appDataContents: False
+labels: {u'restricted': False, u'starred': False, u'viewed': True, u'hidden': False, u'trashed': False}
+explicitlyTrashed: False
+etag: "pvTNHKA6KkAgXTpZXMwU4P67ELo/MTQ0NDYwMTM2MTU4MQ"
+lastModifyingUserName: 572 csci
+writersCanShare: True
+owners: [{u'picture': {u'url': u'https://lh6.googleusercontent.com/-Pp45iZ0cWfk/AAAAAAAAAAI/AAAAAAAAAEY/Ozl4qIH6qRc/s64/photo.jpg'}, u'kind': u'drive#user', u'displayName': u'Can Wang', u'permissionId': u'06504607049609773612', u'isAuthenticatedUser': False, u'emailAddress': u'wyja9110@gmail.com'}]
+sharedWithMeDate: 2015-10-10T21:35:06.642Z
+sharingUser: {u'picture': {u'url': u'https://lh6.googleusercontent.com/-Pp45iZ0cWfk/AAAAAAAAAAI/AAAAAAAAAEY/Ozl4qIH6qRc/s64/photo.jpg'}, u'kind': u'drive#user', u'displayName': u'Can Wang', u'permissionId': u'06504607049609773612', u'isAuthenticatedUser': False, u'emailAddress': u'wyja9110@gmail.com'}
+lastModifyingUser: {u'emailAddress': u'csci572group@gmail.com', u'kind': u'drive#user', u'isAuthenticatedUser': True, u'displayName': u'572 csci', u'permissionId': u'11346033386641446491'}
+title: backup
+ownerNames: [u'Can Wang']
+id: 0B6VQvaBr5t02UFJCWklGM3dIU00
+lastViewedByMeDate: 2015-10-17T17:16:31.255Z
+parents: [{u'isRoot': True, u'kind': u'drive#parentReference', u'id': u'0ACNEvMYj64ZeUk9PVA', u'selfLink': u'https://www.googleapis.com/drive/v2/files/0B6VQvaBr5t02UFJCWklGM3dIU00/parents/0ACNEvMYj64ZeUk9PVA', u'parentLink': u'https://www.googleapis.com/drive/v2/files/0ACNEvMYj64ZeUk9PVA'}]
+shared: True
+editable: True
+markedViewedByMeDate: 2015-10-10T21:35:15.343Z
+modifiedDate: 2015-10-11T22:09:21.581Z
+createdDate: 2015-10-10T21:34:51.753Z
+iconLink: https://ssl.gstatic.com/docs/doclist/images/icon_11_shared_collection_list_1.png
+kind: drive#file
+alternateLink: https://docs.google.com/folderview?id=0B6VQvaBr5t02UFJCWklGM3dIU00&usp=drivesdk
+copyable: False
+userPermission: {u'kind': u'drive#permission', u'etag': u'"pvTNHKA6KkAgXTpZXMwU4P67ELo/Uz4uzHxwYlf_vC1H5nqMCkrsGBw"', u'role': u'writer', u'type': u'user', u'id': u'me', u'selfLink': u'https://www.googleapis.com/drive/v2/files/0B6VQvaBr5t02UFJCWklGM3dIU00/permissions/me'}
+spaces: [u'drive']
+quotaBytesUsed: 0
+selfLink: https://www.googleapis.com/drive/v2/files/0B6VQvaBr5t02UFJCWklGM3dIU00
+
+mimeType: application/pdf
+version: 183
+appDataContents: False
+thumbnailLink: https://lh6.googleusercontent.com/bwNdJfmIwPx7maeW6wuGN60hQ6P2dxnzYxDkqm-EeJgj_ZcgcNTFEj69FpKLSVcW4Hkfa_s=s220
+labels: {u'restricted': False, u'starred': False, u'viewed': True, u'hidden': False, u'trashed': False}
+explicitlyTrashed: False
+etag: "pvTNHKA6KkAgXTpZXMwU4P67ELo/MTQ0NDUwMDQ5NjU4Mw"
+lastModifyingUserName: 572 csci
+writersCanShare: True
+owners: [{u'emailAddress': u'csci572group@gmail.com', u'kind': u'drive#user', u'isAuthenticatedUser': True, u'displayName': u'572 csci', u'permissionId': u'11346033386641446491'}]
+id: 0ByNEvMYj64Zec3RhcnRlcl9maWxl
+lastModifyingUser: {u'emailAddress': u'csci572group@gmail.com', u'kind': u'drive#user', u'isAuthenticatedUser': True, u'displayName': u'572 csci', u'permissionId': u'11346033386641446491'}
+title: Getting started
+ownerNames: [u'572 csci']
+lastViewedByMeDate: 2015-10-10T21:32:52.366Z
+parents: [{u'isRoot': True, u'kind': u'drive#parentReference', u'id': u'0ACNEvMYj64ZeUk9PVA', u'selfLink': u'https://www.googleapis.com/drive/v2/files/0ByNEvMYj64Zec3RhcnRlcl9maWxl/parents/0ACNEvMYj64ZeUk9PVA', u'parentLink': u'https://www.googleapis.com/drive/v2/files/0ACNEvMYj64ZeUk9PVA'}]
+shared: False
+originalFilename: Getting started
+webContentLink: https://docs.google.com/uc?id=0ByNEvMYj64Zec3RhcnRlcl9maWxl&export=download
+editable: True
+markedViewedByMeDate: 1970-01-01T00:00:00.000Z
+quotaBytesUsed: 0
+modifiedDate: 2015-10-10T18:08:16.583Z
+createdDate: 2015-10-10T18:08:16.583Z
+md5Checksum: df1f432d0c63e3d1ff27e01d10ec8e10
+iconLink: https://ssl.gstatic.com/docs/doclist/images/icon_12_pdf_list.png
+kind: drive#file
+alternateLink: https://drive.google.com/file/d/0ByNEvMYj64Zec3RhcnRlcl9maWxl/view?usp=drivesdk
+copyable: True
+downloadUrl: https://doc-0o-34-docs.googleusercontent.com/docs/securesc/ec9de4d4op79n732suf2b5v4e3mrml19/bedqfqf2m1q82ah28nmpr47q7of3o17f/1445097600000/11346033386641446491/11346033386641446491/0ByNEvMYj64Zec3RhcnRlcl9maWxl?e=download&gd=true
+userPermission: {u'kind': u'drive#permission', u'etag': u'"pvTNHKA6KkAgXTpZXMwU4P67ELo/ZIv5fFYEkS_ffEkhxLUR0vV9cGY"', u'role': u'owner', u'type': u'user', u'id': u'me', u'selfLink': u'https://www.googleapis.com/drive/v2/files/0ByNEvMYj64Zec3RhcnRlcl9maWxl/permissions/me'}
+spaces: [u'drive']
+fileExtension: 
+selfLink: https://www.googleapis.com/drive/v2/files/0ByNEvMYj64Zec3RhcnRlcl9maWxl
+fileSize: 1560010
+
